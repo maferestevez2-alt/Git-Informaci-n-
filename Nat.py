@@ -1,0 +1,6 @@
+print("Nathali Camila González Laguna")
+print("Ser amable, comprensiva, empatica")
+print("No soy muy buena para entender las matematicas o la programacion")
+print("He logrado ser mas responsable, dejar crecer mi cabello y no pintarmelo, he logrado mejorar algunas tecnicas de maquillaje y se manejar un poco mas los carros automaticos")
+print("Me gusta todo tipo de musica, pero mis artitas favoritos son Anuel AA y Olivia Rodrigo")
+print("En vacaciones fuimos a visitar a la familia de mi papá que viven en un pueblito cerca de la autopista, salimos varias veces a las plazas a comprar y tambien en navidad hicimos un intercambio navideño entre familia, ah y tambien trabaje unos pocos dias")
