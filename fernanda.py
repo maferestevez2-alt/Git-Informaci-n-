@@ -1,0 +1,7 @@
+print("Maria Fernanda Estevez Castañeda")
+print("FORTALEZAS: Creatividad, Empatia")
+print("DEBILIDADES: Hablar en publico")
+print("LOGROS: Tener buenas calificaciones")
+print("MUSICA: Reggaeton, R&B ")
+print("ARTISTA FAVORITO: Rauw Alejandro")
+print("RESUMEN VACACIONES: Fui a visitar a mis abuelos, Ayude a mi mamá con los labores de la casa ")
