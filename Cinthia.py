@@ -1,0 +1,6 @@
+print("Mi nombre es Cinthia Sofía López Aguilar")
+print("mis fortalezas son cocinar postres, leer")
+print("mis debilidades son dormir,mi familia ")
+print("mis logros han sido haber estado en la escolta en la secundaria, obtener buenas calificaciones ")
+print("mis artistas favoritos son junior h y cnco, me gusta la musica regional, y el pop")
+print("En mis vacaciones me la pase en mi casa con mi familia, algunas veces salimos a comer, el dia de noche buena toda mi familia se reunio en mi casa,cenamos pavo,despues hubo intercambio de regalos.La ultima semana de diciembre estuve en la casa de mi abuelita, ahi festejamos año nuevo.En enero regrese a mi casa y volvi a mi rutina.")
