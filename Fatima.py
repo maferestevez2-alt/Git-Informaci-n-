@@ -1,0 +1,5 @@
+print("Fatima allison sanchez santos:)
+print("FORTALEZAS: respetuosa y amable")
+print("DEBILIDADES: ira")
+print("LOGROS: seguir en la prepa")
+print("MUSICA y artistas:cardenales de nuevo león y belleza de cantina")
