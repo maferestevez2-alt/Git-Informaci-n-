@@ -1,0 +1,6 @@
+print("marijose fonseca ")
+print("escuchar ")
+print("desorganizada")
+print("me gusta el rap ,pero escucho de todo ")
+print("geramx,rels b,tito doble p,ariel camacho")
+print("trabaje vendiendo postres ,y luego ya no hice nada sali")
